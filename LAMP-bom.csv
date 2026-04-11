@@ -1,6 +1,0 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"3d printed parts","for the lamp's structure",1,5.00,"https://printlegion.hackclub.com/","printing legion"
-"Usb-c breakout module","For power",1,0.88,"https://amzn.in/d/05thuzaB","Amazon"
-"5.1kohms resistor","For connecting cc ports together on usb c",5,0.10,"https://robu.in/product/mf25-5k1-multicomp-pro-through-hole-resistor-5-1-kohm-mf25-series-250-mw-%C2%B1-1-axial-leaded-250-v/","Robu.in"
-"2.2 ohm resistor","For converting 5v from usbc to suitable voltage for led",1,0.16,"https://robu.in/product/wcf200-yageo-through-hole-resistor-2-2-ohm-wp-s-2-w-%C2%B1-5-axial-leaded-50-v-pack-of-1/","Robu.in"
-"Led","For light. ",1,2.10,"https://dl.flipkart.com/s/!T!IbXNNNN","Flipkart"
