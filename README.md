@@ -6,7 +6,8 @@ I made this project because i desparately needed funds for my visa.
 
 <img width="948" height="906" alt="image (1)" src="https://github.com/user-attachments/assets/7ec15993-30ba-4916-a88a-833d163e0769" />
 
-<img width="523" height="707" alt="Screenshot 2026-04-11 235013" src="https://github.com/user-attachments/assets/5944705d-3b41-4d08-bf18-f8dd42f37278" />
+<img width="878" height="531" alt="image" src="https://github.com/user-attachments/assets/abf99f78-e28c-479e-b929-d32ab3067ca0" />
+
 
 
 # Bill of Materials (BOM)
