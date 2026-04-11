@@ -1,0 +1,5 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Mosfet","for controlling the light through esp32",5,2.80,"https://robu.in/product/irlz44npbf-hxy-mosfet-60v-60a-120w-12m%cf%8910v25a-4v-1-n-channel-to-220-mosfets-rohs/","robu.in"
+"esp32 xiao","for controlling the light",1,10.18,"https://robocraze.com/products/seeed-studio-xiao-esp32-s3-development-board-supports-wi-fi-bluetooth-5-0?variant=47775391645920&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopmVja5bjne01FxR2lVpsVSXhTN506Ih0kwhaEgeZ5shx1XDP4dpdo","robocraze"
+"3d printed parts","for the lamp's structure",1,5.00,"https://printlegion.hackclub.com/","printing legion"
+"Led strips","For light. ",1,2.14,"https://robu.in/product/12v-warm-white-5050-smd-led-strip-1meter/","amazon"
