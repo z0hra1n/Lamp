@@ -8,7 +8,8 @@ I made this project because i desparately needed funds for my visa.
 
 <img width="878" height="531" alt="image" src="https://github.com/user-attachments/assets/abf99f78-e28c-479e-b929-d32ab3067ca0" />
 
-<img width="535" height="590" alt="Screenshot 2026-04-18 232341" src="https://github.com/user-attachments/assets/741f6d37-aad2-437f-91c7-d71e48b542d3" />
+<img width="402" height="573" alt="image" src="https://github.com/user-attachments/assets/d4fb1ba5-094c-430a-9883-f3f33b4c895e" />
+
 
 # Bill of Materials (BOM)
 
