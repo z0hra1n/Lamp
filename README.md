@@ -12,6 +12,12 @@ This project got rejected as t1 before so i made a pcb and now hopefully it gets
 
 <img width="402" height="573" alt="image" src="https://github.com/user-attachments/assets/d4fb1ba5-094c-430a-9883-f3f33b4c895e" />
 
+<img width="790" height="562" alt="image" src="https://github.com/user-attachments/assets/8bb54394-008d-4627-8c11-7e702630450b" />
+
+<img width="678" height="425" alt="Screenshot 2026-04-27 000203" src="https://github.com/user-attachments/assets/877b793b-591d-414e-be50-fe74b72e821e" />
+
+
+
 
 # Bill of Materials (BOM)
 
