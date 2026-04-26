@@ -2,6 +2,8 @@ This is a 3d printed adjustable diffusion lamp with an esp32 and turns on and of
 
 I made this project because i desparately needed funds for my visa.
 
+This project got rejected as t1 before so i made a pcb and now hopefully it gets approved as t2.
+
 <img width="383" height="269" alt="Screenshot 2026-04-04 225032" src="https://github.com/user-attachments/assets/7d86f9b0-df37-4931-9058-f63718151082" />
 
 <img width="948" height="906" alt="image (1)" src="https://github.com/user-attachments/assets/7ec15993-30ba-4916-a88a-833d163e0769" />
