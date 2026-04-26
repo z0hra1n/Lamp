@@ -16,6 +16,11 @@ This project got rejected as t1 before so i made a pcb and now hopefully it gets
 
 <img width="678" height="425" alt="Screenshot 2026-04-27 000203" src="https://github.com/user-attachments/assets/877b793b-591d-414e-be50-fe74b72e821e" />
 
+<img width="270" height="294" alt="image" src="https://github.com/user-attachments/assets/e890afb9-937f-4214-9f1d-8bc1248cb52f" />
+
+<img width="423" height="442" alt="image" src="https://github.com/user-attachments/assets/2b2c769e-1840-4766-97c2-899ed48e6645" />
+
+<img width="448" height="423" alt="image" src="https://github.com/user-attachments/assets/a01278e3-90c1-4a49-9b8a-59c829e465dd" />
 
 
 
